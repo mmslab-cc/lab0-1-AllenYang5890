@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-# \# hahahahahaha
-=======
-# so far so good
->>>>>>> develop
+\# Hello Github
 
